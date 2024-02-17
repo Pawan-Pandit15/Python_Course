@@ -5,7 +5,7 @@
 #     print(i)
 #     if i==3:
 #         break             # here break means out the loop
-# print("break statement excuted")
+# print("break statement executed")
 
 
 
