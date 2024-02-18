@@ -18,6 +18,7 @@
 # print(type(t1))
 
 
+
 # API_URLS = ("www.google.com", "www.facebook.com", "www.instagram.com")
 # print(API_URLS[0])
 # print(API_URLS[1])      # Tuple Indexing
