@@ -31,6 +31,22 @@
 # print(type(tuple3))
 
 
+t=(10,20,30,40,50,60)
+print(t)
+# mi=min(t)   # minimum print
+# print(mi)
+# m=max(t)    # maximum print
+# print(m)
+# c=t.count(30)  # count
+# print(c)
+# i=t.index(30)   # indexing
+# print(i)
+# s=sum(t)    # sum total number
+# print(s)
+# s1=sum(t,10)  # sum of total mumber and add 10  ( here 10 is default value )
+# print(s1)
+
+
 
 
 
