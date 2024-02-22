@@ -96,3 +96,31 @@
 # c.info()
 
 
+
+# class Car:
+#     color=None
+#     model=None
+#     year=None
+#     def cardetails(self):
+#         print("car details are ",self.color,self.model,self.year)
+#
+# car_color = input("enter car color:")
+# car_model = input("enter car model:")
+# car_year = input("enter car year:")
+#
+# car_obj_ref = Car()
+# car_obj_ref.color=car_color
+# car_obj_ref.model=car_model
+# car_obj_ref.year=car_year
+# car_obj_ref.cardetails()
+
+
+
+
+
+
+
+
+
+
+
