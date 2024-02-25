@@ -116,6 +116,28 @@
 
 
 
+# class School:
+#     def __init__(self,boys,girls):
+#         print("11th Student details:")
+#         self.boys=boys
+#         self.girls=girls
+#     def std_11(self):
+#         print("Total Boys =",self.boys,"Total Girls=",self.girls)
+#
+#
+#     boys1=29
+#     girls1=30
+#
+#     def std_12(self):
+#         print("12th Student Details:")
+#         print("Total Boys =",self.boys1,"Total Girls = ",self.girls1)
+#
+#
+#
+# obj=School(45,78)
+# obj.std_11()
+# obj.std_12()
+
 
 
 
