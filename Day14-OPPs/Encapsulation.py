@@ -98,4 +98,66 @@
 # obj.public_call_private()     #  here call private function
 
 
+# class BankAccount:
+#     def __init__(self):
+#         self.balance = 0
+#         self.__private_var = 100
+#
+#     def public_fn(self):
+#         print(self.__private_var)
+#
+#     def deposit(self, amount):
+#         self.balance += amount
+#
+#     def _withdraw(self, amount):
+#         self.balance -= amount
+#
+#     def __show_balance(self):
+#         print("Your Bal", self.balance)
+#
+#     def if_you_are_auth(self, flag):
+#         if flag:
+#             self.__show_balance()
+#         else:
+#             print("Not allowed")
+#
+#     def do_with_by_bank_manager(self, amount):
+#         self._withdraw(amount=amount)
+#
+#
+# jp_chase = BankAccount()
+# jp_chase.deposit(1000)
+# jp_chase.do_with_by_bank_manager(499)
+# jp_chase.if_you_are_auth(False)
+# jp_chase.public_fn()
+
+
+# class Password:
+#     def __init__(self, password):
+#         self.__password = password
+#         self.public_var = 10
+#
+#     # F(n) and GET and SET
+#
+#     def get_password(self, is_auth):
+#         if is_auth:
+#             print(self.__password)
+#         else:
+#             print("Invalid password")
+#
+#     def set_password(self, password):
+#         if len(password) > 10:
+#             self.__password = password
+#             print("Set to correct", self.password)
+#         else:
+#             print("Not allowed, weak password")
+#
+#
+# pwd = Password("Hacker123")
+# # pwd.get_password(True)
+# pwd.set_password("pramod1")
+
+
+
+
 
