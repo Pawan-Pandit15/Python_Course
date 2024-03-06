@@ -21,6 +21,7 @@ class Mo:
 
 obj=Mo()
 obj.myfunction(10,20)
+
 '''here when i call function with no argument and 1 argument show error because 
     pyhton is a interpreter language call line by line that's why 
      overloading not support in python'''
