@@ -16,7 +16,7 @@ import allure
 @allure.testcase("TMS-456")
 @pytest.mark.smoke
 def test_get_single_request_by_id():
-    response = requests.get("https://restful-booker.herokuapp.com/booking/1")
+    response = requests.get("https://restful-booker.herokuapp.com/booking/2")
     print(response.text)
     print(response.content)
     print(response.json())
