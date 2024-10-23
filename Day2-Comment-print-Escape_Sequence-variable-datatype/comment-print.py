@@ -16,11 +16,14 @@ print("here laptop is a end value")
 print("Hello Pawan")
 
 # Mutiline Comment
+
 '''Hi Pawan
-this is your 
+this is your
 Laptop'''
 
 """
-Hi pawan 
-this is your 
+Hi pawan
+this is your
 laptop"""
+
+
